@@ -42,7 +42,7 @@ The dataset comprises **7,253** entries and **14** columns, including details su
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/used-cars-eda.git
+   git clone https://github.com/RohanSalgare/used-cars-eda.git
    ```
 2. Install required dependencies:
    ```bash
